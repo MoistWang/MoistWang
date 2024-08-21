@@ -1,8 +1,7 @@
 # Hello!
 
 ## Welcome to Wang's Domain.
-
-## Currently learning how to use Git
+### Currently learning how to use Git
 
 <!--
 **MoistWang/MoistWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
